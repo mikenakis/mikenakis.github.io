@@ -14,7 +14,11 @@
     data-view_type="FILTERED_POSTMOD">
 </div>
 
-- intensedebate.com comments
+- intensedebate.com stats widget (does not work)
+
+<script type='text/javascript' defer='defer' src='https://www.intensedebate.com/widgets/blogStats/468942'></script>
+
+- intensedebate.com comments counter
 
 <script>
 var idcomments_acct = 'bb4879ba1917010a5905701465254568';
@@ -23,12 +27,15 @@ var idcomments_post_url;
 </script>
 <script type="text/javascript" src="https://www.intensedebate.com/js/genericLinkWrapperV2.js"></script>
 
+- intensedebate.com comment form
+
 <script>
 var idcomments_acct = 'bb4879ba1917010a5905701465254568';
 var idcomments_post_id;
 var idcomments_post_url;
 </script>
 <span id="IDCommentsPostTitle" style="display:none"></span>
+<hr/>
 <script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
 
 - intensedebate.com banner
