@@ -31,7 +31,11 @@ var idcomments_post_url;
 <span id="IDCommentsPostTitle" style="display:none"></span>
 <script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
 
-- this is a footer
+- intensedebate.com banner
+
+<a href="https://www.intensedebate.com/?badge=small_grey&user=michael_gr" title="Go to IntenseDebate"><img src="https://www.intensedebate.com/images/intensedebate-badge-small_grey.png?=3" alt="Go to IntenseDebate" /></a>
+
+- gravatar hovercard
 
 <div class="gravatar-hovercard" style="width: 320px; min-width: 320px; max-width: 320px; background-color: #fff; border: 1px solid #d8dbdd; border-radius: 4px; overflow: hidden; box-sizing: border-box;">
 	<div style="padding: 16px;">
